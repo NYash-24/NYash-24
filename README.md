@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**NYash-24/NYash-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Yash
 
-Here are some ideas to get you started:
+🚀 DevOps Engineer | AWS | Kubernetes | Docker | CI/CD | GitHub Actions | Automation | Linux | Terraform
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialize in building secure, scalable infrastructure using AWS and Kubernetes. Passionate about modular Terraform, least privilege IAM, and team-scale automation.
+
+## 🛠️ Skills
+- Cloud: AWS (EC2, VPC, EKS, IAM, RDS, Route 53)
+- Containers: Docker, Kubernetes, Helm
+- Infra as Code: Terraform
+- CI/CD: GitHub Actions, Jenkins
+- Scripting: Bash, PowerShell, Python
